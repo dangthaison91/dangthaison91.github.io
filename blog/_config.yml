@@ -70,7 +70,7 @@ lsi: false
 username: danhgthaison91
 repo: danhgthaison91.github.io
 branch: master
-relative_source: ../
+relative_source: ../blog/
 destination: ../blog-pages/
 production_url:  https://danhgthaison91.github.io/
 source_url:  https://github.com/danhgthaison91/danhgthaison91.github.io/
