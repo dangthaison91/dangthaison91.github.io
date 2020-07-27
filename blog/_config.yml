@@ -76,6 +76,7 @@ production_url:  https://danhgthaison91.github.io/
 source_url:  https://github.com/danhgthaison91/danhgthaison91.github.io/
 
 exclude:
+  - blog
   - assets/css
   - node_modules
   - vendor
